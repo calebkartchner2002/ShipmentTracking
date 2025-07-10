@@ -51,4 +51,3 @@ class Shipment(
     fun getExpectedDeliveryDateTimestamp(): Long? = expectedDeliveryDateTimestamp
     fun getCurrentLocation(): String = currentLocation
 }
-//please push
